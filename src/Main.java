@@ -4,4 +4,5 @@ public class Main {
     }
     int qwe = 0;
     int zxc = 0;
+    int sf228 = 0;
 }
