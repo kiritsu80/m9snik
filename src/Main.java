@@ -3,4 +3,5 @@ public class Main {
         System.out.println("Hello world!");
     }
     int qwe = 0;
+    int zxc = 0;
 }
